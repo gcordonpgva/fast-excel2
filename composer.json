@@ -1,5 +1,5 @@
 {
-  "name": "gcordon/fast-excel",
+  "name": "gcordon/fast-excel2",
   "type": "library",
   "keywords": ["laravel", "excel", "csv", "xls", "xlsx"],
   "description": "Fast Excel import/export for Laravel",
